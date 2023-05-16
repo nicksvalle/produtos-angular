@@ -1,0 +1,7 @@
+{
+    "produtos" : [
+        {"id": 1, "name": "Camiseta", "price": 49.90, "brand": "Nike", "date": "10/22"},
+        {"id": 2, "name": "Calça", "price": 99.90, "brand": "Adidas", "date": "08/22"},
+        {"id": 3, "name": "Tênis", "price": 299.90, "brand": "Puma", "date": "01/23"}
+    ]
+}
